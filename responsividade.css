@@ -1,0 +1,88 @@
+@media screen and (max-width:1210px){
+  .headline h2 {
+  font-size: 50px;
+ }
+}
+
+@media screen and (max-width:1050px){
+  .menu {
+    display: none;
+  }
+
+  .navbar {
+    position: relative;
+  }
+
+  .logo {
+    text-align: center;
+    margin: 0;
+  }
+
+  #card-marketing {
+    padding-top: 24px;
+  }
+}
+
+@media screen and (max-width:1006px){
+  .headline h2 {
+  font-size: 45px;
+ }
+}
+
+@media screen and (max-width:902px){
+  .headline h2 {
+  font-size: 40px;
+ }
+
+ .headline h4 {
+  font-size: 12px;
+  letter-spacing: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+section h3 {
+  font-size: 30px;
+}
+}
+
+@media screen and (max-width:730px){
+  .headline h2 {
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+ .headline h4 {
+  font-size: 12px;
+  letter-spacing: 8px;
+  margin: 0;
+  padding: 0;
+}
+
+.headline p {
+  color: grey;
+  font-size: 14px;
+  padding-right: 10%;
+}
+
+.contrate-btn {
+  align-items: center;
+}
+
+section h3 {
+  font-size: 25px;
+}
+
+.card {
+  padding: 10px;
+  font-size: 13px;
+}
+
+.card-text h4 {
+  font-size: 14px;
+}
+
+#card-marketing {
+  padding-top: 20px;
+}
+}
